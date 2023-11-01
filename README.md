@@ -9,7 +9,7 @@ Repositório criado para as anotações do Bootcamp Potência Tech iFood - Progr
 - Palavras-chave: algoritmos; fluxogramas
 
 ### Estrutura de um software e seu ambiente de desenvolvimento
-- [Mapa de Aventura](https://helpful-jump-17b.notion.site/Mapa-de-aventura-91f3e9bd923842149d4dba754dc65c07)
+- [Mapa de Aventura]([https://helpful-jump-17b.notion.site/Mapa-de-aventura-91f3e9bd923842149d4dba754dc65c07](https://helpful-jump-17b.notion.site/Mapa-de-aventura-91f3e9bd923842149d4dba754dc65c07?p=37c961da5fea45b69538f4a365feb88a&pm=c))
 - [Anotações de Aula]()
 - Palavras-chave: Input; process; output; IDE
 
