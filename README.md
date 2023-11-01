@@ -1,2 +1,2 @@
-# Bootcamp-Pot-ncia-Tech-iFood
-Anotações e desafios do Bootcamp Potência Tech iFood - Programação do Zero
+# Bootcamp Potência Tech iFood
+Repositório criado para as anotações e desafios do Bootcamp Potência Tech iFood - Programação do Zero
